@@ -1,16 +1,18 @@
 body{
 	margin: 0px;
 	padding: 0px;
+
 }
 .header {
+	align-items: center;
 	background-color: #000000;
-	padding: 20px;
 	margin: 0;
+	padding-right: 40px;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 }
-.left {}
+
 div{padding: 20px;}
 
 h1{
@@ -50,6 +52,7 @@ h2{
 	align-items: center;
 	justify-content: center;
 	box-shadow: 5px 0px 25px;
+	background-attachment: fixed;
 }
 .heroh1{
 	font-family: poppins;
@@ -96,10 +99,17 @@ h5{padding: 60px;}
 	margin-top: -350px;
 	margin-left: auto;
 	margin-right: 50px;
+	box-shadow: 2px 2px 2px;
 }
 #floatingdiv{
 	display: flex;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 0px;
+}
+h5{
+	font-family: poppins;
+	font-size: 20px;
+	font-weight: 200;
+	color: #000000
 }
