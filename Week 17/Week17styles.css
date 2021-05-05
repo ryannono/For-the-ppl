@@ -43,10 +43,9 @@ h2{
 }
 .hero {
 	height:400px;
-	background-position: center;
-	background-size: cover;
+	background-size: auto;
 	background-repeat: no-repeat;
-	background:url(https://images.pexels.com/photos/1145720/pexels-photo-1145720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) rgba(0,0,0,0.70);
+	background:url(https://images.unsplash.com/photo-1609678816248-132228a8658b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) rgba(0,0,0,0.70);
 	background-blend-mode: multiply;
 	display: flex;
 	align-items: center;
@@ -86,7 +85,7 @@ p{
 }
 h5{padding: 60px;}
 .last {
-	background: url(https://image.freepik.com/free-vector/wave-textures-white-background-vector_53876-60286.jpg);
+	background: url(https://images.unsplash.com/photo-1570991397545-462610e9923b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80);
 	height: 200px;
 	margin-bottom: 0px;
 }
@@ -111,5 +110,5 @@ h5{
 	font-family: poppins;
 	font-size: 20px;
 	font-weight: 200;
-	color: #000000
+	color: #ffffff
 }
